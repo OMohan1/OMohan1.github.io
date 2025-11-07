@@ -1,3 +1,6 @@
+---
+title: Cryptobuddy
+---
 # 💰 CryptoBuddy — Rule-Based Cryptocurrency Advisor Chatbot
 
 ## 🧠 Overview
