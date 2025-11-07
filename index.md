@@ -21,28 +21,38 @@ Highly motivated and passionate software engineer and ethical hacker dedicated t
 
 ## Education 🎓
 
-- Cisco Ethical Hacker 🧠
+# *Cisco Ethical Hacker 🧠*
 *CYBER SHUJAA ACADEMY 🏫*
-Expected Graduation: December 2025 📅
+
+Expected Graduation: December 2025 📅 
 *Relevant Coursework:* 🧩 Social Engineering Attacks, Web and Application Security, Wireless and Cloud Security ☁️, Reconnaissance and Scanning 🔍, Planning and Scoping 🗂️, Exploitation Techniques 💥, Reporting and Communication 🗒️, and Soft Skills 🤝.
 
-- Software Engineering
+# *Software Engineering*
+
 *Power Learn Project Academy🏫*
 Expected Graduation: December 2025 📅
 *Skills:* Python, AI for Software Engineering, Web Development, Database Administration, Startup Building.
 ## Projects 💻
 
-- Threat Detection and Response Framework 🔐
+# 1. *- Threat Detection and Response Framework 🔐*
+
 *Source:* github.com/mohanot 🌐
+
 October 2025–November 2025
+
 ● Developed a custom, multi-threaded Python script 🐍 to automate the detection of common web application flaws, specifically targeting Broken Access Control and SQL Injection (SQLi) on self-hosted vulnerable platforms (DVWA, WebGoat).
+
 ● Platforms and Technology Used: Python (requests, asyncio), OWASP Top 10 Methodology, Docker 🐳, DVWA, WebGoat, Burp Suite (for validation).
 
-- Active Directory Attack Simulation and Hardening 🧱
+# 2. *- Active Directory Attack Simulation and Hardening 🧱*
+
 October 2025–Nov 2025
+
 *Source:* github.com/mohanot 🌐
+
 ● Built and maintained a dedicated Active Directory (AD) environment (domain controller, two client machines) in a virtualized lab 💾 to simulate enterprise network attacks.
 ● Executed and documented end-to-end attacks, including Kerberoasting, Pass-the-Hash (PtH), and local privilege escalation, successfully achieving Domain Administrator access 👑.
+
 ● Platforms and Technology Used: Kali Linux 🐉, Metasploit 💣, Impacket toolkit, BloodHound 🩸, Windows Server/Clients 🪟 (VirtualBox/VMware), PowerShell ⚡.
 
 ## Additional Skills 🧰
