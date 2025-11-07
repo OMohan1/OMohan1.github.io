@@ -1,3 +1,7 @@
+---
+title: LandGen AI
+tags: AI, Land Regen
+---
 # 🌍 LandGen AI
 
 **LandGen AI** is an intelligent environmental dashboard that analyzes and visualizes key ecological indicators — weather patterns, soil health, deforestation data, and wildlife extinction risk — using **AI models** and **real-time open-data APIs**.
