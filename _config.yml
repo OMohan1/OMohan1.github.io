@@ -14,14 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mohan Otieno
+tagline: Penetration Tester | Ethical Hacker | AI Software Engineer
 email: otienomohan678@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+ Passionate software engineer and ethical hacker dedicated to building secure, efficient applications while identifying and mitigating vulnerabilities to enhance system integrity and performance.
+twitter_username: omnisol100
+github_username: mohanot
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -35,6 +34,8 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _projects
+  - _lab-challenges
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -48,6 +49,14 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  lab-challenges:
+    output: true
+    permalink: /lab-challenges/:title/  
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -58,34 +67,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Mohan Otieno"
+  avatar : "/assets/images/mohan.jpg"
+  bio    : "AI Software Engineer and Cyber Security Enthusiast."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://mohanotieno.me"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/omnisol100"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mohanot"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/mohan"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "X"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/omnisol100"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mohanot"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/mohan"
 
 defaults:
   # _posts
