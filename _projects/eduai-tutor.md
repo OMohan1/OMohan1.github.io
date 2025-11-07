@@ -1,3 +1,7 @@
+---
+title: EduAI 
+tags: studybuddy, quality education
+---
 # 📘 EduAI – AI Study Buddy
 
 An **AI-powered flashcard generator** that transforms raw study notes into interactive quiz cards, helping students revise smarter and faster.  
