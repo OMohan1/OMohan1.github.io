@@ -53,6 +53,6 @@ October 2025–Nov 2025
  Secure Code Analysis 🧾
 
 ## Download Resume
-[Download CV] (/assets/resume.pdf)
+[Download CV](/assets/resume.pdf)
 
 ---
